@@ -1,1 +1,2 @@
-shell_variables_expansions
+#!/bin/bash
+Readme.for current directory
